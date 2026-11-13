@@ -1,0 +1,11 @@
+/target/
+/bin/
+*.class
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+.idea/
+.settings/
+.project
+.classpath
